@@ -1,6 +1,6 @@
 # 🕷️ Dark Phish - Advanced Phishing Simulation Tool
 
-![Dark Phish Banner](https://raw.githubusercontent.com/mohamedmosamir/DarkPhish/main/banner.png)
+![Dark Phish Banner](https://github.com/mohamedmosamir/DarkPhish/blob/main/baner.png?raw=true)
 **Dark Phish** is a powerful and open-source command-line utility designed for ethical hacking and penetration testing, specifically focused on realistic phishing simulations. It offers an extensive collection of meticulously crafted fake login pages that are 100% identical to popular websites, making it an invaluable tool for security researchers, penetration testers, and anyone involved in cybersecurity awareness training.
 
 ---
@@ -41,12 +41,22 @@ Ensure you have `git` and `python3` installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/mohamedmosamir/DarkPhish.git](https://github.com/mohamedmosamir/DarkPhish.git)
+    git clone https://github.com/mohamedmosamir/DarkPhish.git
     ```
 2.  **Navigate into the tool's directory:**
     ```bash
     cd DarkPhish
     ```
+📂 Extracting `pages.zip`
+
+For Dark Phish to function properly and load all the phishing templates, you **must** extract the `pages.zip` file.
+
+After installing and navigating into the `DarkPhish` directory, run the following command:
+
+```bash
+unzip pages.zip
+    
+    
 3.  **Make the installation script executable and run it:**
     ```bash
     chmod +x install.sh
@@ -66,12 +76,21 @@ Ensure you have `git` and `python3` installed on your system.
     ```
 3.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/mohamedmosamir/DarkPhish.git](https://github.com/mohamedmosamir/DarkPhish.git)
+    git clone https://github.com/mohamedmosamir/DarkPhish.git
     ```
 4.  **Navigate into the tool's directory:**
     ```bash
     cd DarkPhish
     ```
+📂 Extracting `pages.zip`
+
+For Dark Phish to function properly and load all the phishing templates, you **must** extract the `pages.zip` file.
+
+After installing and navigating into the `DarkPhish` directory, run the following command:
+
+```bash
+unzip pages.zip
+    
 5.  **Make the installation script executable and run it:**
     ```bash
     chmod +x install.sh
@@ -81,11 +100,4 @@ Ensure you have `git` and `python3` installed on your system.
 
 ---
 
-## 📂 Extracting `pages.zip`
 
-For Dark Phish to function properly and load all the phishing templates, you **must** extract the `pages.zip` file.
-
-After installing and navigating into the `DarkPhish` directory, run the following command:
-
-```bash
-unzip pages.zip
