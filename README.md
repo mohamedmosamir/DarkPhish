@@ -46,17 +46,8 @@ Ensure you have `git` and `python3` installed on your system.
 2.  **Navigate into the tool's directory:**
     ```bash
     cd DarkPhish
-    ```
-📂 Extracting `pages.zip`
-
-For Dark Phish to function properly and load all the phishing templates, you **must** extract the `pages.zip` file.
-
-After installing and navigating into the `DarkPhish` directory, run the following command:
-
-```bash
-unzip pages.zip
-    
-    
+    unzip pages.zip
+    ```  
 3.  **Make the installation script executable and run it:**
     ```bash
     chmod +x install.sh
@@ -81,16 +72,8 @@ unzip pages.zip
 4.  **Navigate into the tool's directory:**
     ```bash
     cd DarkPhish
+    unzip pages.zip
     ```
-📂 Extracting `pages.zip`
-
-For Dark Phish to function properly and load all the phishing templates, you **must** extract the `pages.zip` file.
-
-After installing and navigating into the `DarkPhish` directory, run the following command:
-
-```bash
-unzip pages.zip
-    
 5.  **Make the installation script executable and run it:**
     ```bash
     chmod +x install.sh
@@ -98,6 +81,15 @@ unzip pages.zip
     ```
     *(Note: Some warnings might appear during Termux installation, but the tool should generally function correctly.)*
 
----
+## 📂 Extracting `pages.zip`
+
+For Dark Phish to function properly and load all the phishing templates, you **must** extract the `pages.zip` file.
+
+After installing and navigating into the `DarkPhish` directory, run the following command:
+
+```bash
+unzip pages.zip
 
 
+⚠️ Important Disclaimer
+This tool is designed and intended solely for educational purposes, ethical hacking, and authorized penetration testing. Any unauthorized or malicious use of this tool is strictly prohibited and is the sole responsibility of the user. Always ensure you have explicit permission before using this tool on any system or network.
