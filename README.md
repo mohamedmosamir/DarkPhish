@@ -46,8 +46,10 @@ Ensure you have `git` and `python3` installed on your system.
 2.  **Navigate into the tool's directory:**
     ```bash
     cd DarkPhish
+    ```
+    ```bash
     unzip pages.zip
-    ```  
+    ``` 
 3.  **Make the installation script executable and run it:**
     ```bash
     chmod +x install.sh
@@ -72,8 +74,10 @@ Ensure you have `git` and `python3` installed on your system.
 4.  **Navigate into the tool's directory:**
     ```bash
     cd DarkPhish
-    unzip pages.zip
     ```
+   ```bash
+   unzip pages.zip
+   ```
 5.  **Make the installation script executable and run it:**
     ```bash
     chmod +x install.sh
@@ -89,7 +93,7 @@ After installing and navigating into the `DarkPhish` directory, run the followin
 
 ```bash
 unzip pages.zip
-
+```
 
 ⚠️ Important Disclaimer
 This tool is designed and intended solely for educational purposes, ethical hacking, and authorized penetration testing. Any unauthorized or malicious use of this tool is strictly prohibited and is the sole responsibility of the user. Always ensure you have explicit permission before using this tool on any system or network.
